@@ -1,6 +1,6 @@
 
-# Spotify Application With Realtime Features
+# Spotify Application With Real-Time Features
 
-![Imgur](https://imgur.com/7o9uYWk)
+[img](https://i.imgur.com/7o9uYWk.png)
 
 Visit here: https://spotify-clone-realtime-features.onrender.com/
