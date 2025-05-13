@@ -3,7 +3,7 @@
 
 ![logo](https://i.imgur.com/PVc4O7P.png)
 
-### 
+##
 
 #### 💿 Features
 - 🎧 Listen to music
@@ -15,7 +15,7 @@
 
 Visit here: https://spotify-clone-realtime-features.onrender.com/
 
-###
+##
 
 #### 🎵 Listen to any copyright free song, album, or playlist
 - No login required
@@ -51,7 +51,7 @@ Visit here: https://spotify-clone-realtime-features.onrender.com/
 - Has the option to choose whether to go back to the previous page or the home page
 ![img](https://i.imgur.com/MINvZeF.png)
 
-###
+##
 
 #### 📌 Backend
 - Express
@@ -76,7 +76,7 @@ Using both JavaScript and TypeScript in this one project showcases my broad rang
 - Critical thinking
 - Problem solving
 - Improve development skills
-### About Me
+## About Me
 
 I graduated Texas Tech University with a Bachelor's degree, majoring in computer science with a minor in mathematics. I have 5+ years of experience in multiple programming languages.
 
