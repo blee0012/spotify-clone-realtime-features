@@ -14,6 +14,7 @@
 - ⚙️ Admin dashboard to create songs and albums
 
 Visit here: https://spotify-clone-realtime-features.onrender.com/
+(It might take about a minute for the website to start up)
 
 ##
 
